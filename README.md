@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvapatil1210&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatil1210" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvapatil1210" alt="atharvapatil1210" /></a> </p>
-
 - 🔭 I’m currently working on [Linux automation](https://github.com/atharvapatil1210/his-2k24)
 
 - 🌱 I’m currently learning **Linux automation, AWS Cloud, Ethical Hacking tools, etc.**
@@ -38,4 +36,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/atharvabodade"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atharvabodade" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvapatil1210&show_icons=true&locale=en&layout=compact" alt="atharvapatil1210" /></p>
 
