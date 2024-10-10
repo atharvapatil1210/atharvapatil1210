@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva Boade</h1>
+<h1 align="center">Hi 👋, I'm Atharva Bodade</h1>
 <h3 align="center">A passionate linux developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvapatil1210&label=Profile%20views&color=0e75b6&style=flat" alt="atharvapatil1210" /> </p>
