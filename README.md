@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvapatil1210" alt="atharvapatil1210" /></a> </p>
 
-- 🔭 I’m currently working on [Linux automation](https://github.com/atharvapatil1210/his-2k24)
+- 🔭 I’m currently working on [Cloud](https://github.com/atharvapatil1210/his-2k24)
 
 - 🌱 I’m currently learning **Linux automation, AWS Cloud, Ethical Hacking tools, etc.**
 
